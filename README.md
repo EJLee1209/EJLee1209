@@ -3,3 +3,6 @@
 
 # 📖 My Velog
 <a href="https://velog.io/@dldmswo1209"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+
+# 🛠 Tech Stack 🛠
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>

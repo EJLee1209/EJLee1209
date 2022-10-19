@@ -1,5 +1,74 @@
-# 📖 My Velog
-<a href="https://velog.io/@dldmswo1209"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+# 🧑‍💻 About Me
 
+## 안녕하세요! 🙋  <br>안드로이드 앱 개발을 공부 중인 대학생입니다.
+
+- Name : Eun Jae Lee
+- Phone : 010-5878-1209
+- email : dldmswo1209@gmail.com
+- Github : [github.com/EJLee1209](https://github.com/EJLee1209)
+- 취미 : 헬스, 음악 감상, 영화, 앱 개발
+- 군필 여부 : 대한민국 육군 병장 만기 전역
+
+
+### **좌우명**
+> **일상을 바꾸기 전에는 삶을 변화시킬 수 없다.   <br>
+성공의 비밀은 일상에 있다.**
+
+저는 심한 저체중이었고, 마른 몸이 콤플렉스 였습니다.  <br>
+
+제 삶을 변화시키기 위해 **운동**을 시작했습니다.  <br>
+운동을 시작하면서 **체력**도 좋아지고, **집중력**이 높아졌습니다.  <br>
+낮에는 공부를 하고, 저녁에는 운동을 하며 하루를 마무리 합니다.  <br>
+
+### 저는 _**"무엇인가 하기로 마음 먹으면 끝까지 해내는 사람"**_ 입니다. 
+
+> 남들보다 뛰어난 개발자가 되고 싶지만, 그렇지 않더라도
+**"맡은 일에 대해서 꾸준히 공부하고, 노력하는 개발자"** 가 되고 싶습니다.
+
+## 깃허브에 1일 1커밋을 하려고 노력하고 있습니다.
+![잔디](https://velog.velcdn.com/images/dldmswo1209/post/e4e5ad70-6168-492b-9536-dfbe411030cc/image.png)
+
+
+## 개인 공부 블로그를 운영 중 입니다.
+[개인 공부 velog](https://velog.io/@dldmswo1209)
+
+매일 공부한 내용을 복습한다는 생각으로 올리고 있습니다.
+
+# 📝 Education
+
+고등학교 : 강원고등학교 졸업 (2015.03 ~ 2018.02)  <br>
+대학교 : 한림대학교 재학 중(2018.03 ~ 2024.02 졸업 예정)  <br>
+
+# 🏋️ Activities
+ - ### **KBSC 소프트웨어 경진대회 본선 진출**
+ > 기간 : 2022.08 ~ 2022.11.05  <br> 
+  담당 : 심리상담 채팅 어플 개발  <br>
+  심사 진행 중  <br>
+
+ - ### **한림대학교 창업 동아리 Dawn**
+ > 기간 : 2022.06~  <br>
+  담당 : 안드로이드 앱 개발 팀장  <br>
+  활동 : 2022년 6월부터 창업 동아리에 선정되어 Linc+ 사업단의 지원을 받아 동아리 활동 중, 3D 아바타 피팅 기술을 접목한 쇼핑몰 플랫폼 개발 진행 중(MVP 개발)  <br>
+  
+  - ### **한림대학교 Cearang 학술 동아리**
+  > 기간 : 2022.03~  <br>
+   담당 : 동아리 부원  <br>
+   활동 : 동아리 내 안드로이드 앱 개발 팀 소속  <br>
+   
 # 🛠 Tech Stack 🛠
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> 
+
+## Android
+- **Kotlin** 문법에 대해서 잘 이해하고 있습니다.
+- **MVVM** 패턴에 대해 이해하고, 프로젝트에 적용할 수 있습니다.
+- 비동기 프로그래밍을 위한 코틀린의 **Coroutine** 에 대해 이해하고 있습니다.
+- **Firebase** 와 연동해서 사용할 수 있습니다.
+- Retrofit2 를 사용해서 서버와 클라이언트 간의 **통신** 구현을 잘 해낼 수 있습니다.
+
+## Backend 
+클라이언트와 서버의 통신 흐름을 이해하기 위해 최소한의 공부를 했습니다.
+
+- Node.js
+- python(Flask)
+- MySQL
+- docker
+- Google Cloud Platform

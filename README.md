@@ -3,7 +3,6 @@
 ## 안녕하세요! 🙋  <br>안드로이드 앱 개발을 공부 중인 대학생입니다.
 
 - Name : Eun Jae Lee
-- Phone : 010-5878-1209
 - email : dldmswo1209@gmail.com
 - Github : [github.com/EJLee1209](https://github.com/EJLee1209)
 - 취미 : 헬스, 음악 감상, 영화, 앱 개발

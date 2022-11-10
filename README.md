@@ -51,6 +51,7 @@
    활동 : 동아리 내 안드로이드 앱 개발 팀 소속  <br>
    
 # 🥇 Award 
+## 2022년
 - ### KBSC 소프트웨어 경진대회 장려상
 <img src="https://velog.velcdn.com/images/dldmswo1209/post/3a8efdcc-dfff-456f-b5e0-96bf256ee5a3/image.png" width="50%"/>
 
@@ -67,7 +68,9 @@
   
 - ### Github 이력서 해커톤 동상 (교내 대회)
 > 기간 : 2022.10.31 ~ 2022.11.03  <br>
-   
+> 
+- ### SW창업 아이디어 경진대회 동상 (교내 대회)
+  <br>
 # 🛠 Tech Stack 🛠
 
 ## Android

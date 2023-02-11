@@ -31,12 +31,16 @@
 <br>
 
 <div align=center>
-	<h3>Ongoing project</h3>
+	<h3>🧑‍💻 Ongoing project 🧑‍💻</h3>
 	<p>✨ 한림대학교 택시 카풀 앱 프로젝트 림카 ✨</p>
 	<br>
 	- 택시 합승을 통해 학생들의 택시 비용 부담을 줄이고자 기획하여 개발 중에 있습니다!
+	[프로젝트](https://github.com/EJLee1209/HallymTaxi)
+	<br>
 	2022-12-30 ~ 2023-03-01(앱 출시 예정일)
 </div>
+<br>
+
 <div align="center">
 	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />

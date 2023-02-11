@@ -10,13 +10,13 @@
   </a>
   
   <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=EJLee1209)](https://github.com/EJLee1209/github-readme-stats"/>
+    
   </a>
   
 </p>
 
 <div align="center">
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=EJLee1209)](https://github.com/EJLee1209/github-readme-stats"/>
 </div>
 
 

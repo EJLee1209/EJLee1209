@@ -30,6 +30,17 @@
 </div>
 <br>
 
+</div>
+<div align=center>
+	<h3>🏅 Awards 🏅</h3>
+	- ### KBSC 소프트웨어 경진대회 장려상
+	- ### 서공제 공모전 은상 (한림대)
+	- ### 2022 SW 창업 아이디어 경진대회 동상
+	- ### Github 이력서 해커톤 동상 (한림대)
+	- ### 더존비즈온 프로젝트 발표회 장려상
+</div>
+<br>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EJLee1209&show_icons=true">

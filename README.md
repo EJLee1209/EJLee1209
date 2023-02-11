@@ -9,7 +9,9 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEJLee1209&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)"/>
   </a>
   
-  [![EunJae's GitHub stats](https://github-readme-stats.vercel.app/api?username=EJLee1209)](https://github.com/EJLee1209/github-readme-stats)
+  <a>
+   [![EunJae's GitHub stats](https://github-readme-stats.vercel.app/api?username=EJLee1209)](https://github.com/EJLee1209/github-readme-stats)
+  </a>
 </p>
 
 

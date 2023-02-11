@@ -15,6 +15,8 @@
   [![EunJae's GitHub stats](https://github-readme-stats.vercel.app/api?username=EJLee1209)](https://github.com/EJLee1209/github-readme-stats)
 </div>
 
+[![EunJae's GitHub stats](https://github-readme-stats.vercel.app/api?username=EJLee1209)](https://github.com/EJLee1209/github-readme-stats)
+
 
 
 

@@ -10,13 +10,13 @@
   </a>
   
   <a>
-    
+    <img src="https://github-readme-stats.vercel.app/api?username=EJLee1209&show_icons=true">
   </a>
   
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EJLee1209&show_icons=true">
+ 
 </div>
 
 

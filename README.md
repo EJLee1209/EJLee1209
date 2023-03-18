@@ -30,6 +30,11 @@
 </div>
 <br>
 
+<div align=center>
+	<h3>📚 Studying 📚</h3>
+	Swift, iOS Development...
+</div>
+
 </div>
 <div align=center>
 	<h3>🏅 Awards 🏅</h3>

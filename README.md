@@ -1,4 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Lee%20Eun%20Jae&fontSize=90&animation=fadeIn&fontAlignY=38&desc=iOS%20Developer&descAlignY=51&descAlign=62)
+
+![Eun Jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=EJLee1209&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldmswo1209)](https://solved.ac/dldmswo1209/)
+
 <p align='center'> 안녕하세요!👋 iOS 앱 개발자 이은재 입니다 </p>
 <p align='center'>
   <a href="https://velog.io/@dldmswo1209">
@@ -41,15 +45,3 @@
 	<h5>더존비즈온 프로젝트 발표회 장려상 (한림대)</h5>
 </div>
 <br>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EJLee1209&show_icons=true">
-</div>
-
-
-
-
-
-
-
